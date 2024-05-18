@@ -1,4 +1,4 @@
-## Thank to Maëlys Jusseaux For This very Useful Repo
+## Thanks to Jusseaux For This very Usefull Repo
 # Audio Dataset Manager
 
 ## Introduction
